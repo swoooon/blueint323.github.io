@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: 왜틀봇
-  descr: "discord에서 BOJ의 유저카드, 문제와 CF의 유저카드, 콘테스트를 보여줍니다.
+  descr: "discord에서 BOJ의 유저카드, 문제와 CF의 유저카드, 콘테스트를 보여줍니다."
   demo: https://bots.ondiscord.xyz/bots/750373133940293693
   tags:
     - tag: discord.py
