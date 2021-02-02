@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: dolog
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: 아직 공부보단 노는게 좋은 헌내기
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 url: "https://blueint323.github.io/"
