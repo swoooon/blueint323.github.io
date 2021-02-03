@@ -41,7 +41,7 @@ about_me_description: 공부를 그렇게 잘 하지도 못하고 개발을 그�
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -49,7 +49,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: 뭘 했을까??
 # cv_download_link: The link where you host your cv.
