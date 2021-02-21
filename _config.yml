@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 공부를 그렇게 잘 하지도 못하고 개발을 그렇게 잘 하지도 못하고 알고리즘을 그렇게 잘 하지도 못해서 맘이 아픈 개발꿈나무
+about_me_description: 이거 막 보지 마세요 ㅡㅡ
 
 # SKILLS SECTION
 # show_skills_card:
