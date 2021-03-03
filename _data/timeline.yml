@@ -17,7 +17,7 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: 11위
+- title: 11th
   title-url: https://www.acmicpc.net/contest/view/586
   date: 2021/02/28
   subtitle: SUAPC 2021 Winter
@@ -33,7 +33,15 @@
     - tag: Algorithms
   timeline-side: left
 
-- title: 준우승
+- title: ICPC Sinchon
+  title-url: suapc.kr
+  date: 2020/09
+  subtitle: Organizer
+  tags:
+    - tag: Algorithms
+  timeline-side: left
+
+- title: 2nd
   title-url: https://www.acmicpc.net/contest/view/532
   date: 2020/08/31
   subtitle: 2020 ICPC Sinchon Summer Algorithm Camp Contest - div.2
@@ -41,11 +49,18 @@
     - tag: Algorithms
   timeline-side: right
 
-- title: 3등상
+- title: 3rd prize
   title-url: https://www.acmicpc.net/contest/view/518
   date: 2020/08/15
   subtitle: SUAPC 2020 - div.2
   tags:
     - tag: Algorithms
   timeline-side: right
+
+- title: SODA
+  date: 2021/02/20
+  subtitle: 홍익대학교 개발학회 SODA 회장
+  tags:
+    - tag: development
+  timeline-side: left
 
