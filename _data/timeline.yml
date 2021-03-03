@@ -41,13 +41,6 @@
     - tag: Algorithms
   timeline-side: left
 
-- title: SODA
-  date: 2020/09
-  subtitle: 홍익대학교 개발학회 SODA 회장
-  tags:
-    - tag: development
-  timeline-side: left
-
 - title: 2nd
   title-url: https://www.acmicpc.net/contest/view/532
   date: 2020/08/31
@@ -64,4 +57,9 @@
     - tag: Algorithms
   timeline-side: right
 
-
+- title: SODA
+  date: 2020/07~
+  subtitle: 홍익대학교 개발학회 SODA 회장
+  tags:
+    - tag: development
+  timeline-side: left
