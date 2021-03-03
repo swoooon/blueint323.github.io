@@ -35,10 +35,17 @@
 
 - title: ICPC Sinchon
   title-url: suapc.kr
-  date: 2020/09
-  subtitle: Organizer
+  date: 2020/09~
+  subtitle: 신촌지약 대학 프로그래밍 연합 총괄진
   tags:
     - tag: Algorithms
+  timeline-side: left
+
+  - title: SODA
+  date: 2020/09
+  subtitle: 홍익대학교 개발학회 SODA 회장
+  tags:
+    - tag: development
   timeline-side: left
 
 - title: 2nd
@@ -57,10 +64,4 @@
     - tag: Algorithms
   timeline-side: right
 
-- title: SODA
-  date: 2021/02/20
-  subtitle: 홍익대학교 개발학회 SODA 회장
-  tags:
-    - tag: development
-  timeline-side: left
 
