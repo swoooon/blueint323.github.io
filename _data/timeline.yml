@@ -17,6 +17,13 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: 출제
+  title-url: https://www.acmicpc.net/contest/view/618
+  date: 2021/05/08
+  subtitle: 제1회 숙명여자대학교 교내 알고리즘 경진대회
+  tags:
+    - tag: Algorithms
+  timeline-side: left
 - title: 11th
   title-url: https://www.acmicpc.net/contest/view/586
   date: 2021/02/28
