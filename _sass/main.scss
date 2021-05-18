@@ -87,7 +87,6 @@ a {
 
 .layout .card {
   background: $card-bg-color;
-  border-radius: 2rem;
   margin: 3rem 0;
   padding: 1rem 2rem;
 }
@@ -506,7 +505,6 @@ a {
 
   .flag {
     background: $bg-color;
-    border-radius: 0.5rem;
     font-weight: $font-weight-strong;
     padding: 0.25rem 0.5rem;
 
@@ -544,14 +542,12 @@ a {
 
   .time {
     background: $bg-color;
-    border-radius: 0.5rem;
     display: inline-block;
     padding: .6rem;
   }
 
   .desc {
     background: $bg-color;
-    border-radius: 1rem;
     margin: 1em 0 0 0;
     padding: 0.75em;
     text-align: center;
@@ -561,7 +557,6 @@ a {
 /* Projects Card */
 
 .project {
-  border-radius: 1rem;
   margin: 1rem 0;
   padding: 0.5rem 1rem;
 }
@@ -590,7 +585,6 @@ a {
 }
 
 .tag {
-  border-radius: 0.5rem;
   display: inline-block;
   margin-bottom: 0.25rem;
   padding: 0.5rem;
@@ -704,7 +698,6 @@ a {
     }
 
     .filter-button {
-      border-radius: 0.5rem;
       cursor: pointer;
       display: unset;
       margin: 0 0.5rem 1rem;
