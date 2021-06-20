@@ -17,27 +17,29 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: 출제
+- title: SMUPC
   title-url: https://www.acmicpc.net/contest/view/618
   date: 2021/05/08
-  subtitle: 제1회 숙명여자대학교 교내 알고리즘 경진대회
+  subtitle: 제1회 숙명여자대학교 교내 알고리즘 경진대회 출제
   tags:
     - tag: Algorithms
+    - tag: 출제
   timeline-side: left
-- title: 11th
+- title: SUAPC
   title-url: https://www.acmicpc.net/contest/view/586
   date: 2021/02/28
-  subtitle: SUAPC 2021 Winter
+  subtitle: 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 11위
   tags:
     - tag: Algorithms
   timeline-side: right
 
-- title: 출제
+- title: Sinchon Camp Contest
   title-url: https://www.acmicpc.net/contest/view/588
   date: 2021/02/20
-  subtitle: 2021 ICPC Sinchon Winter Algorithm Camp Contest - div.2
+  subtitle: 2021 ICPC Sinchon Winter Algorithm Camp Contest - div.2 출제
   tags:
     - tag: Algorithms
+    - tag: 출제
   timeline-side: left
 
 - title: ICPC Sinchon
@@ -48,18 +50,18 @@
     - tag: Algorithms
   timeline-side: left
 
-- title: 2nd
+- title: Sinchon Camp Contest
   title-url: https://www.acmicpc.net/contest/view/532
   date: 2020/08/31
-  subtitle: 2020 ICPC Sinchon Summer Algorithm Camp Contest - div.2
+  subtitle: 2020 ICPC Sinchon Summer Algorithm Camp Contest - div.2 2위
   tags:
     - tag: Algorithms
   timeline-side: right
 
-- title: 3rd prize
+- title: SUAPC
   title-url: https://www.acmicpc.net/contest/view/518
   date: 2020/08/15
-  subtitle: SUAPC 2020 - div.2
+  subtitle: 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 div.2 3등상
   tags:
     - tag: Algorithms
   timeline-side: right
