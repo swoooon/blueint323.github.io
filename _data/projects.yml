@@ -19,3 +19,10 @@
   tags:
     - tag: discord.py
 
+- name: BOJ-Color-Label
+  descr: "BOJ유저 정보란에서 문제 번호를 해당 문제의 티어 색으로 칠해줍니다."
+  demo: https://github.com/blueint323/BOJ-Color-Label
+  tags:
+    - tag: chrome extension
+    - tag: flask
+
