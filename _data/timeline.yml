@@ -17,6 +17,24 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: SUAPC
+  title-url: https://www.acmicpc.net/contest/view/679
+  date: 2021/08/21
+  subtitle: 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 동상(6위)
+  tags:
+    - tag: Algorithms
+  timeline-side: left
+
+
+- title: Sinchon Camp Contest
+  title-url: https://www.acmicpc.net/contest/view/681
+  date: 2021/08/21
+  subtitle: 2021 ICPC Sinchon Summer Algorithm Camp Contest 출제
+  tags:
+    - tag: Algorithms
+    - tag: 출제
+  timeline-side: left
+
 - title: SMUPC
   title-url: https://www.acmicpc.net/contest/view/618
   date: 2021/05/08
