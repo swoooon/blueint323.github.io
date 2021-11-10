@@ -17,6 +17,17 @@
 #     - tag: Rails
 #   timeline-side: right
 
+
+- title: Hongik Progamming Contest
+  title-url: https://www.acmicpc.net/contest/view/685
+  date: 2021/05/08
+  subtitle: 2021 홍익대학교 프로그래밍 경진대회 출제
+  tags:
+    - tag: Algorithms
+    - tag: 출제
+  timeline-side: left
+
+
 - title: SUAPC
   title-url: https://www.acmicpc.net/contest/view/679
   date: 2021/08/21
@@ -43,6 +54,7 @@
     - tag: Algorithms
     - tag: 출제
   timeline-side: left
+
 - title: SUAPC
   title-url: https://www.acmicpc.net/contest/view/586
   date: 2021/02/28
