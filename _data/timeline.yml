@@ -17,10 +17,38 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: SUAPC
+  title-url: https://www.acmicpc.net/contest/view/755
+  date: 2022/02/26
+  subtitle: 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 은상 (3위)
+  tags:
+    - tag: Algorithms
+  timeline-side: right
+
+
+- title: Sinchon Camp Contest
+  title-url: https://www.acmicpc.net/contest/view/755
+  date: 2022/02/19
+  subtitle: 2022 ICPC Sinchon Winter Algorithm Camp Contest
+  tags:
+    - tag: Algorithms
+    - tag: 총괄
+  timeline-side: left
+
+
+- title: Coding Test
+  title-url: https://www.acmicpc.net/contest/view/755
+  date: 2022/01/23
+  subtitle: 가희와 함께 하는 3회 코딩테스트
+  tags:
+    - tag: Algorithms
+    - tag: 검수
+  timeline-side: left
+
 
 - title: Hongik Progamming Contest
   title-url: https://www.acmicpc.net/contest/view/685
-  date: 2021/05/08
+  date: 2021/10/30
   subtitle: 2021 홍익대학교 프로그래밍 경진대회 출제
   tags:
     - tag: Algorithms
